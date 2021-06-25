@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'HackersFriend_NewsAggregator.urls'
+ROOT_URLCONF = 'NewsAggregator.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'HackersFriend_NewsAggregator.wsgi.application'
+WSGI_APPLICATION = 'NewsAggregator.wsgi.application'
 
 
 # Database

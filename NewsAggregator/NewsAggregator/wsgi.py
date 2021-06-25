@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'HackersFriend_NewsAggregator.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'NewsAggregator.settings')
 
 application = get_wsgi_application()
