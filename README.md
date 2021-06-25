@@ -47,4 +47,4 @@ URL_Shortener:
 JOHN_CENA_webserver:
     Open the file in your text editor
 
-    In Terminal tab at the top, execute 'Run Active File'
+    In Terminal tab at the top, click 'Run Active File'
