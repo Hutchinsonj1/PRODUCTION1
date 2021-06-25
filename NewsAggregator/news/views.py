@@ -9,14 +9,14 @@ toi_soup = BeautifulSoup(toi_r.content, 'html5lib')
 toi_headings = toi_soup.find_all('h2')
 toi_headings = toi_headings[0:-13] # removing footer links
 
-
+  
 toi_news = []
 
 for th in toi_headings:
     toi_news.append(th.text)
 
 
-# Getting News from Hindustan Times
+# Getting News from Fox
 
 ht_r = requests.get("https://www.foxnews.com/?page=42364&external=3829093.proteus.fma")
 ht_soup = BeautifulSoup(ht_r.content, 'html5lib')

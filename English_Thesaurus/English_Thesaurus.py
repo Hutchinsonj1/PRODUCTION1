@@ -1,6 +1,6 @@
 import json
 from difflib import get_close_matches
-data= json.load(open("DICTIONARY.json"))
+data= json.load(open("English_Thesaurus/DICTIONARY.json"))
 
 def translate(w):
     w = w.lower()
