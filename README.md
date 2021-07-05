@@ -5,20 +5,18 @@ English Thesaurus:
 
 
 News Aggregator:
-    Open the Command Prompt on your computer
+    Clone this git repo to your favorite text-editor on your computer, save it in a New Folder Open the repo you just cloned in your text-editor
 
-    Install the following pckgs if you haven't already:
-    pip install bs4
-    pip install requests
-    pip install django
+    Open the Command Prompt (cmd) on your computer
 
-    cd into my repository (/NewFolder/PRODUCTION1)
-    cd into 'NewsAggregator'
-    cd into 'news'
+    Install the following pckgs if you haven't already: pip install bs4 pip install requests pip install django
 
-    Then Execute:
-    cd..
-    python manage.py runserver
+    cd into my repository (/NewFolder/News-Aggregator) cd into 'NewsAggregator' cd into 'news'
+
+    Then Execute: cd.. python manage.py runserver
+
+    Copy the URL from the output and paste into your favorite browser
+    
 
 
 Sudoku Solver:
