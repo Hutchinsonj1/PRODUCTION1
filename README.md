@@ -1,3 +1,5 @@
+# There is a README.md attatched to every repo...
+
 HOW TO RUN THESE APPS:
 
 English Thesaurus:
