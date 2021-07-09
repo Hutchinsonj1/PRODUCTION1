@@ -14,13 +14,13 @@ News Aggregator:
     Clone this git repo to your favorite text-editor on your computer, save it in a New Folder. Open the repo you just cloned in your text-editor.
 
     Open the Command Prompt (cmd) on your computer
+    
+    cd into my repository (/NewFolder/News-Aggregator/TEST/NewsAggregator)
 
-    Install the following pckgs if you haven't already: pip install bs4 pip install requests pip install django
-
-    cd into my repository (/NewFolder/News-Aggregator) cd into 'NewsAggregator' cd into 'news'
+    You may need to install the following pckgs: 'pip install bs4' 'pip install requests' 'pip install django'
 
     Then Execute: 
-    cd.. python manage.py runserver
+    python manage.py runserver
 
     Copy the URL from the output and paste into your favorite browser
     
