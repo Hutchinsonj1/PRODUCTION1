@@ -41,7 +41,7 @@ URL_Shortener:
     
     Open the Command Prompt (cmd) on your computer
 
-    cd into my repository (/NewFolder/PRODUCTION1)
+    cd into my repository (/NewFolder/url_shortener)
 
     Install the following pckgs if you haven't already:
 
