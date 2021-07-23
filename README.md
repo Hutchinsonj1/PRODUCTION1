@@ -17,7 +17,7 @@ News Aggregator:
 
     Open the Command Prompt (cmd) on your computer
     
-    Move into my repository (cd NewFolder/News-Aggregator/TEST/NewsAggregator)
+    Move into my repository (cd New Folder/News-Aggregator/TEST/NewsAggregator)
 
     You may need to install the following pckgs: 'pip install bs4' 'pip install requests' 'pip install django'
 
@@ -43,7 +43,7 @@ URL_Shortener:
     
     Open the Command Prompt (cmd) on your computer
 
-    cd into my repository (/NewFolder/url_shortener)
+    Move into my repository (cd NewFolder/url_shortener)
 
     Install the following pckgs if you haven't already:
 
@@ -60,5 +60,5 @@ JOHN_CENA_webserver:
     
     Open the 'JOHN_CENA_webserver' in your text editor
 
-    In 'Terminal' tab at the top, click 'Run Active File'
+    In 'Run' tab at the top, click 'Run Without Debugging'
     If this doesn't work, open the New Folder you cloned my files to on your computer and simply double-click the 'JOHN_CENA_webserver.html' file
