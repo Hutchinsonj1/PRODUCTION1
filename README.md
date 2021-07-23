@@ -5,8 +5,6 @@
 HOW TO RUN THESE APPS:
 
 English Thesaurus:
-    Clone this repository to your favorite text-editor on your computer, save it in a New Folder. 
-
     Clone this repository to your favorite text-editor on your computer, save it in a New Folder.  Open the repo you just cloned in your text-editor.
     
     Click on the 'English_Thesaurus.py' file
@@ -15,11 +13,11 @@ English Thesaurus:
 
 
 News Aggregator:
-    Clone this git repo to your favorite text-editor on your computer, save it in a New Folder. Open the repo you just cloned in your text-editor.
+    Clone this repository to your favorite text-editor on your computer, save it in a New Folder. Open the repo you just cloned in your text-editor.
 
     Open the Command Prompt (cmd) on your computer
     
-    cd into my repository (/NewFolder/News-Aggregator/TEST/NewsAggregator)
+    Move into my repository (cd NewFolder/News-Aggregator/TEST/NewsAggregator)
 
     You may need to install the following pckgs: 'pip install bs4' 'pip install requests' 'pip install django'
 
@@ -31,7 +29,7 @@ News Aggregator:
 
 
 Sudoku Solver:
-    Clone this git repo to your favorite text-editor on your computer, save it in a New Folder. Open the repo you just cloned in your text-editor.
+    Clone this repository to your favorite text-editor on your computer, save it in a New Folder. Open the repo you just cloned in your text-editor.
 
     Open the sudoku.py file.
 
@@ -41,7 +39,7 @@ Sudoku Solver:
 
 
 URL_Shortener:
-    Clone this git repo to your favorite text-editor on your computer, save it in a New Folder. Open the repo you just cloned in your text-editor.
+    Clone this repository to your favorite text-editor on your computer, save it in a New Folder. Open the repo you just cloned in your text-editor.
     
     Open the Command Prompt (cmd) on your computer
 
@@ -58,9 +56,9 @@ URL_Shortener:
 
 
 JOHN_CENA_webserver:
-    Clone this git repo to your favorite text-editor on your computer, save it in a New Folder. Open the repo you just cloned in your text-editor.
+    Clone this repository to your favorite text-editor on your computer, save it in a New Folder. Open the repo you just cloned in your text-editor.
     
     Open the 'JOHN_CENA_webserver' in your text editor
 
     In 'Terminal' tab at the top, click 'Run Active File'
-    If this doesn't work, open the folder you cloned my files to and simply double-click the 'JOHN_CENA_webserver.html' file
+    If this doesn't work, open the New Folder you cloned my files to on your computer and simply double-click the 'JOHN_CENA_webserver.html' file
